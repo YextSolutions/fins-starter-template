@@ -1,5 +1,6 @@
 {
   "$id": "vacantly-parallel-monkey-f84c7",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/fins-universal-starter"
+  "repoUrl": "github.com/yext-pages/fins-universal-search-react-${{businessId}}",
+  "templateRepo": "github.com/yext-pages/fins-universal-starter"
 }

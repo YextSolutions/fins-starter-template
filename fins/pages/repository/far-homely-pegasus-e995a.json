@@ -1,5 +1,6 @@
 {
   "$id": "far-homely-pegasus-e995a",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/retail-banking-template-answers-site-4045607.com"
+  "repoUrl": "github.com/yext-pages/fins-universal-search-theme-${{businessId}}",
+  "templateRepo": "github.com/yext-pages/retail-banking-template-answers-site-4045607.com"
 }

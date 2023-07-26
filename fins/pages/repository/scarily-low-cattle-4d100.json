@@ -1,5 +1,6 @@
 {
   "$id": "scarily-low-cattle-4d100",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/advisor_search_4045607"
+  "repoUrl": "github.com/yext-pages/fins-advisor-search-theme-${{businessId}}",
+  "templateRepo": "github.com/yext-pages/advisor_search_4045607"
 }

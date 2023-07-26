@@ -1,5 +1,6 @@
 {
   "$id": "sharply-silky-pipefish-8615b",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/fins-advisor-pages"
+  "repoUrl": "github.com/yext-pages/fins-advisor-pages-${{businessId}}",
+  "templateRepo": "github.com/yext-pages/fins-advisor-pages"
 }

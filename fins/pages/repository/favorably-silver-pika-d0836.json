@@ -1,5 +1,6 @@
 {
   "$id": "favorably-silver-pika-d0836",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/fins-advisor-search"
+  "repoUrl": "github.com/yext-pages/fins-advisor-search-react-${{businessId}}",
+  "templateRepo": "github.com/yext-pages/fins-advisor-search"
 }

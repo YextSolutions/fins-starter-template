@@ -1,5 +1,6 @@
 {
   "$id": "shrilly-humble-kangaroo-7c4d7",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/locator_search_4045607"
+  "repoUrl": "github.com/yext-pages/fins-locator-search-theme-${{businessId}}",
+  "templateRepo": "github.com/yext-pages/locator_search_4045607"
 }
