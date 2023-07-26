@@ -3,16 +3,21 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
     "fins_primaryCTA": {
       "label": "Learn More",
       "link": "http://www.yext.com",
       "linkType": "URL"
     },
+    "fins_productCategory": [
+      "Product Category"
+    ],
     "fins_secondaryCTA": {
       "label": "Learn More",
       "link": "http://www.yext.com",
       "linkType": "URL"
     },
+    "landingPageUrl": "https://www.yext.com",
     "name": "Product 1"
   },
   "entityType": "fins_financialProduct",

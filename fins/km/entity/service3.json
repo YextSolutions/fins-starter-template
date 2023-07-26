@@ -3,6 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "fins_primaryCTA": {
       "label": "Learn More",
       "link": "http://www.yext.com",
@@ -13,19 +14,21 @@
       "link": "http://www.yext.com",
       "linkType": "URL"
     },
+    "fins_serviceCategory": "Service Category",
     "fins_servicesImage": {
       "height": 57,
       "sourceUrl": "https://a.mktgcdn.com/p/MwEmEOi3k1t3Ah06gCVQapx5XVyunI28s_BD8Q0sT5Y/56x57.png",
       "thumbnails": [
         {
           "height": 57,
-          "url": "https://a.mktgcdn.com/p/MwEmEOi3k1t3Ah06gCVQapx5XVyunI28s_BD8Q0sT5Y/56x57.png",
+          "url": "http://a.mktgcdn.com/p/MwEmEOi3k1t3Ah06gCVQapx5XVyunI28s_BD8Q0sT5Y/56x57.png",
           "width": 56
         }
       ],
-      "url": "https://a.mktgcdn.com/p/MwEmEOi3k1t3Ah06gCVQapx5XVyunI28s_BD8Q0sT5Y/56x57.png",
+      "url": "http://a.mktgcdn.com/p/MwEmEOi3k1t3Ah06gCVQapx5XVyunI28s_BD8Q0sT5Y/56x57.png",
       "width": 56
     },
+    "landingPageUrl": "https://www.yext.com",
     "name": "Service 3"
   },
   "entityType": "fins_service",

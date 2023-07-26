@@ -10,7 +10,9 @@
     "fins_relatedProfessionals",
     "fins_secondaryCTA",
     "fins_serviceCategory",
-    "fins_servicesImage"
+    "fins_servicesImage",
+    "description",
+    "landingPageUrl"
   ],
   "required": []
 }
