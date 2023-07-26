@@ -1,0 +1,42 @@
+{
+  "$schema": "https://schema.yext.com/config/km/settings/v1",
+  "primaryEntityType": "location",
+  "entityTypeSettings": [
+    {
+      "entityType": "location",
+      "defaultFieldEligibilityGroup": "location.default",
+      "disabled": false
+    },
+    {
+      "entityType": "atm",
+      "defaultFieldEligibilityGroup": "atm.default",
+      "disabled": false
+    },
+    {
+      "entityType": "fins_service",
+      "defaultFieldEligibilityGroup": "ce_service.default",
+      "disabled": false
+    },
+    {
+      "entityType": "fins_financialProduct",
+      "defaultFieldEligibilityGroup": "ce_financialProduct.default",
+      "disabled": false
+    },
+    {
+      "entityType": "financialProfessional",
+      "defaultFieldEligibilityGroup": "financialProfessional.default",
+      "disabled": false
+    },
+
+    {
+      "entityType": "faq",
+      "defaultFieldEligibilityGroup": "faq.default",
+      "disabled": false
+    },
+    {
+      "entityType": "helpArticle",
+      "defaultFieldEligibilityGroup": "helpArticle.default",
+      "disabled": false
+    }
+  ]
+}
