@@ -1,0 +1,22 @@
+{
+  "$id": "fins_relatedFaqs",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Related Faqs",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 5000,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "faq"
+          ],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

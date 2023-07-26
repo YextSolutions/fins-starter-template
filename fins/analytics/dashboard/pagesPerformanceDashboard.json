@@ -1,0 +1,98 @@
+{
+  "$id": "fins_pagesPerformanceDashboard",
+  "$schema": "https://schema.yext.com/config/analytics/dashboard/v1",
+  "name": "Pages Performance",
+  "insights": [
+    {
+      "insight": "PAGE-VIEWS-BY-PLATFORM",
+      "x": 0,
+      "y": 0,
+      "width": 3,
+      "height": 2
+    },
+    {
+      "insight": "PAGE-VIEWS-BY-REFERRER",
+      "x": 3,
+      "y": 0,
+      "width": 3,
+      "height": 2
+    },
+    {
+      "insight": "PAGE-CUSTOMER-ACTIONS-DESKTOP",
+      "x": 0,
+      "y": 2,
+      "width": 3,
+      "height": 1
+    },
+    {
+      "insight": "PAGE-CUSTOMER-ACTIONS-MOBILE",
+      "x": 3,
+      "y": 2,
+      "width": 3,
+      "height": 1
+    },
+    {
+      "insight": "PAGE-BRANDED-TERMS",
+      "x": 0,
+      "y": 3,
+      "width": 3,
+      "height": 2
+    },
+    {
+      "insight": "PAGE-UNBRANDED-TERMS",
+      "x": 3,
+      "y": 3,
+      "width": 3,
+      "height": 2
+    },
+    {
+      "insight": "PAGES-OVERVIEW",
+      "x": 0,
+      "y": 5,
+      "width": 3,
+      "height": 2
+    },
+    {
+      "insight": "PAGES-HEATMAP",
+      "x": 3,
+      "y": 5,
+      "width": 3,
+      "height": 2
+    },
+    {
+      "insight": "PAGES-TRAFFIC-SUMMARY",
+      "x": 0,
+      "y": 9,
+      "width": 6,
+      "height": 3
+    },
+    {
+      "insight": "fins_sessions_pageViews_week",
+      "caption": "Unique visitors to your website vs overall Pageviews",
+      "x": 0,
+      "y": 12,
+      "width": 6,
+      "height": 2
+    },
+    {
+      "insight": "fins_pageViews_pageUrl",
+      "x": 0,
+      "y": 14,
+      "width": 6,
+      "height": 3
+    },
+    {
+      "insight": "PAGE-VIEWS-BY-DAY",
+      "x": 0,
+      "y": 17,
+      "width": 6,
+      "height": 3
+    }
+  ],
+  "filters": [
+    {
+      "filter": "yext/date",
+      "in": "WEEKS_12"
+    }
+  ]
+}

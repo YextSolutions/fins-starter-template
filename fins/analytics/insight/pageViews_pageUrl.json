@@ -1,0 +1,30 @@
+{
+  "$id": "fins_pageViews_pageUrl",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Page Views by Week and Page Url",
+  "description": "Page Views by Week and Page Url",
+  "query": {
+    "metrics": [
+      "yext/PAGE_VIEWS"
+    ],
+    "dimensions": [
+      "yext/WEEKS",
+      "yext/PAGE_URL"
+    ],
+    "filters": [
+      {
+        "filter": "yext/date",
+        "in": "WEEKS_4"
+      },
+      {
+        "filter": "yext/PAGE_TYPE",
+        "in": [
+          "STORE"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "line": {}
+  }
+}

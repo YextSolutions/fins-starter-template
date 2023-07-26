@@ -1,0 +1,47 @@
+{
+  "$id": "fins_article1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "fins_articlePhoto": {
+      "image": {
+        "height": 1962,
+        "sourceUrl": "https://a.mktgcdn.com/p/CH1W56lBSu0TrSD0UeV3Qq6u85Ll1pCZXfpMB68lOpg/2940x1962.jpg",
+        "thumbnails": [
+          {
+            "height": 1962,
+            "url": "https://a.mktgcdn.com/p/CH1W56lBSu0TrSD0UeV3Qq6u85Ll1pCZXfpMB68lOpg/2940x1962.jpg",
+            "width": 2940
+          },
+          {
+            "height": 1268,
+            "url": "https://a.mktgcdn.com/p/CH1W56lBSu0TrSD0UeV3Qq6u85Ll1pCZXfpMB68lOpg/1900x1268.jpg",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p/CH1W56lBSu0TrSD0UeV3Qq6u85Ll1pCZXfpMB68lOpg/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p/CH1W56lBSu0TrSD0UeV3Qq6u85Ll1pCZXfpMB68lOpg/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p/CH1W56lBSu0TrSD0UeV3Qq6u85Ll1pCZXfpMB68lOpg/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/CH1W56lBSu0TrSD0UeV3Qq6u85Ll1pCZXfpMB68lOpg/2940x1962.jpg",
+        "width": 2940
+      }
+    },
+    "name": "Article 1",
+    "shortDescription": "Don\u0027t let avoidable tax mistakes derail your financial progress. In this informative piece, our certified tax professionals shed light on the most common tax pitfalls individuals and businesses face and provide practical tips to steer clear of them. Learn about overlooked reporting requirements, potential audit triggers, and pitfalls related to cryptocurrency transactions and gig economy income. Gain insight into handling tax implications of rental properties and investments wisely. By proactively avoiding these errors, you can ensure a smoother tax\\-filing experience and maintain compliance with tax laws."
+  },
+  "entityType": "helpArticle",
+  "folder": "yext/root",
+  "labels": []
+}

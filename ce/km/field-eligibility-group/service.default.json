@@ -1,0 +1,15 @@
+{
+  "$id": "ce_service.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Service-default",
+  "entityType": "fins_service",
+  "fields": [
+    "fins_primaryCTA",
+    "fins_relatedFaqs",
+    "fins_relatedLocations",
+    "fins_relatedProfessionals",
+    "fins_secondaryCTA",
+    "fins_servicesImage"
+  ],
+  "required": []
+}

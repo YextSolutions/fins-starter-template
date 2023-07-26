@@ -1,0 +1,22 @@
+{
+  "$id": "fins_featuredArticles",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Featured Articles",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 5000,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "helpArticle"
+          ],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

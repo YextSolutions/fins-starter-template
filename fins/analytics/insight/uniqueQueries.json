@@ -1,0 +1,27 @@
+{
+  "$id": "fins_uniqueQueries",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Unique Queries",
+  "description": "Search Terms by Search Experience",
+  "query": {
+    "metrics": [
+      "yext/ANSWERS_SEARCH_TERMS"
+    ],
+    "dimensions": [
+      "yext/ANSWERS_EXPERIENCE"
+    ],
+    "filters": [
+      {
+        "filter": "yext/ANSWERS_CONFIGURATION_VERSION_LABEL",
+        "in": [
+          "PRODUCTION"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "hero": {
+      "aggregation": "SUM"
+    }
+  }
+}

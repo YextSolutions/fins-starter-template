@@ -1,0 +1,27 @@
+{
+  "$id": "fins_clickThroughRate",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Click Through Rate",
+  "description": "Search Click Through Rate by Search Experience",
+  "query": {
+    "metrics": [
+      "yext/ANSWERS_CLICK_THROUGH_RATE"
+    ],
+    "dimensions": [
+      "yext/ANSWERS_EXPERIENCE"
+    ],
+    "filters": [
+      {
+        "filter": "yext/ANSWERS_CONFIGURATION_VERSION_LABEL",
+        "in": [
+          "PRODUCTION"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "hero": {
+      "aggregation": "MEAN"
+    }
+  }
+}

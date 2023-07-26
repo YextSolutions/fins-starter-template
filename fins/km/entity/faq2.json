@@ -1,0 +1,294 @@
+{
+  "$id": "fins_faq2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Head over to ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Hitchhikers",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "target": "_blank",
+                  "type": "link",
+                  "url": "https://hitchhikers.yext.com/login",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", our learning and community platform to help make you an expert on Yext.  We recommend doing a few things:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Check out our ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "10 Steps to Getting Your Answers Experience Live guide",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "target": "_blank",
+                      "type": "link",
+                      "url": "https://hitchhikers.yext.com/guides/answers-quick-start/",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " for step-by-step walkthrough of the basics",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 1,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Earning your ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Hitchhiker Badge",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "target": "_blank",
+                      "type": "link",
+                      "url": "https://hitchhikers.yext.com/tracks/intro/",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " to learn a bit more about the program",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 2,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Post in the ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Community",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "target": "_blank",
+                      "type": "link",
+                      "url": "https://hitchhikers.yext.com/community/",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " if you have any questions on how things work or best practices",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 3,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Attend our weekly ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Office Hours",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "target": "_blank",
+                      "type": "link",
+                      "url": "https://events-hitchhikers.yext.com/index.html?query\u003devent\u0026SortOptions\u003d2\u0026referrerPageUrl\u003dhttps%3A%2F%2Fhitchhikers.yext.com%2F",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " held on Tuesdays at 11am ET",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 4,
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul",
+              "type": "list",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Happy Hitchhiking!",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "name": "How can I get help building my Yext Answers experience?",
+    "question": "How can I get help building my Yext Answers experience?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": []
+}

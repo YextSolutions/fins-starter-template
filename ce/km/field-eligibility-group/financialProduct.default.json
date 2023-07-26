@@ -1,0 +1,14 @@
+{
+  "$id": "ce_financialProduct.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Financial Product-default",
+  "entityType": "fins_financialProduct",
+  "fields": [
+    "fins_primaryCTA",
+    "fins_relatedFaqs",
+    "fins_relatedLocations",
+    "fins_relatedProfessionals",
+    "fins_secondaryCTA"
+  ],
+  "required": []
+}

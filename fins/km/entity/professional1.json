@@ -1,0 +1,175 @@
+{
+  "$id": "fins_professional1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas finibus placerat justo a viverra. Quisque ut congue tellus, vitae fermentum velit. Suspendisse sed gravida libero. \n\nEtiam pulvinar tincidunt augue vitae fermentum. Maecenas tortor nunc, ullamcorper eu tortor sed, vestibulum suscipit libero. Praesent sit amet pulvinar massa. Proin mattis tellus tristique neque ullamcorper, vel vestibulum lorem dapibus. Vivamus et magna in justo posuere imperdiet sit amet amour tellus.",
+    "emails": [
+      "sjones@yext.com"
+    ],
+    "fins_featuredArticles": [
+      "fins_article1",
+      "fins_article2",
+      "fins_article3"
+    ],
+    "fins_jobTitle": "Vice President",
+    "fins_primaryCTA": {
+      "label": "View Profile",
+      "link": "http://www.yext.com",
+      "linkType": "URL"
+    },
+    "fins_relatedLocations": [
+      "fins_location1"
+    ],
+    "fins_relatedServices": [
+      "fins_service1",
+      "fins_service2",
+      "fins_service3"
+    ],
+    "fins_secondaryCTA": {
+      "label": "Call Now",
+      "link": "http://www.yext.com",
+      "linkType": "URL"
+    },
+    "headshot": {
+      "alternateText": "Sample Alt Text",
+      "height": 383,
+      "thumbnails": [
+        {
+          "height": 383,
+          "url": "https://a.mktgcdn.com/p/kgrUUvnHk11fjIOAMkB4U9RfQrBPwIeSL3Qgn1Q8k1A/383x383.png",
+          "width": 383
+        },
+        {
+          "height": 150,
+          "url": "https://a.mktgcdn.com/p/kgrUUvnHk11fjIOAMkB4U9RfQrBPwIeSL3Qgn1Q8k1A/150x150.png",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "https://a.mktgcdn.com/p/kgrUUvnHk11fjIOAMkB4U9RfQrBPwIeSL3Qgn1Q8k1A/94x94.png",
+          "width": 94
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/kgrUUvnHk11fjIOAMkB4U9RfQrBPwIeSL3Qgn1Q8k1A/383x383.png",
+      "width": 383
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "interests": [
+      "Reading",
+      "Traveling",
+      "Cooking",
+      "Golfing"
+    ],
+    "landingPageUrl": "https://www.yext.com",
+    "languages": [
+      "French",
+      "English",
+      "Spanish",
+      "Korean"
+    ],
+    "logo": {
+      "image": {
+        "height": 44,
+        "sourceUrl": "https://a.mktgcdn.com/p/b2xAvt8F_UTC_EKfiqs-i3E7b2dZk4lcynRai6s9mb0/44x38.png",
+        "thumbnails": [
+          {
+            "height": 44,
+            "url": "https://a.mktgcdn.com/p/x3mFMha7r29hqX41QbAdPh-upGiBkKWlN8ecj9UPcG0/44x44.png",
+            "width": 44
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/x3mFMha7r29hqX41QbAdPh-upGiBkKWlN8ecj9UPcG0/44x44.png",
+        "width": 44
+      }
+    },
+    "mainPhone": "+17574060122",
+    "name": "Sam Jones",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "hero image",
+          "height": 550,
+          "sourceUrl": "https://a.mktgcdn.com/p/XSJWgHAzJRtonqDQH4sFXm_sPfeTNI3OXrdiSklnKZc/825x550.png",
+          "thumbnails": [
+            {
+              "height": 550,
+              "url": "https://a.mktgcdn.com/p/XSJWgHAzJRtonqDQH4sFXm_sPfeTNI3OXrdiSklnKZc/825x550.png",
+              "width": 825
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/XSJWgHAzJRtonqDQH4sFXm_sPfeTNI3OXrdiSklnKZc/825x550.png",
+          "width": 825
+        }
+      }
+    ],
+    "services": [
+      "Test"
+    ],
+    "slug": "[[entityId]]",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "displayUrl": "https://www.yext.com",
+      "preferDisplayUrl": false,
+      "url": "https://www.yext.com"
+    },
+    "yearsOfExperience": 18
+  },
+  "entityType": "financialProfessional",
+  "labels": []
+}

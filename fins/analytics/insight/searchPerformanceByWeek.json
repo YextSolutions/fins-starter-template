@@ -1,0 +1,29 @@
+{
+  "$id": "fins_searchPerformanceByWeek",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Search Performance by Week",
+  "description": "Sessions, Searches, Clicks by Week",
+  "query": {
+    "metrics": [
+      "yext/ANSWERS_SESSIONS",
+      "yext/ANSWERS_SEARCHES",
+      "yext/ANSWERS_CLICKS"
+    ],
+    "dimensions": [
+      "yext/WEEKS"
+    ],
+    "filters": [
+      {
+        "filter": "yext/ANSWERS_CONFIGURATION_VERSION_LABEL",
+        "in": [
+          "PRODUCTION"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "line": {
+      "showLabels": true
+    }
+  }
+}

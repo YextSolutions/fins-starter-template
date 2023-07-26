@@ -1,0 +1,24 @@
+{
+  "$id": "fins_locator-search-theme",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Locator Search (Theme)",
+  "repoConfig": "shrilly-humble-kangaroo-7c4d7",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "master",
+      "envVars": [],
+      "isProductionBranch": true,
+      "Active": true
+    }
+  ]
+}

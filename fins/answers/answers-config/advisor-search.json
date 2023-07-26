@@ -1,0 +1,57 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "fins_advisor-search",
+  "name": "Advisor Search",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "financial_professionals": {
+      "entityTypes": [
+        "financialProfessional"
+      ],
+      "name": "Financial Professionals",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "fins_relatedLocations.name": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "fins_relatedServices.name": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "interests": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "languages": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "popularQueriesBlacklistedRegex": [],
+    "universalPrompts": [],
+    "verticalPrompts": {}
+  }
+}

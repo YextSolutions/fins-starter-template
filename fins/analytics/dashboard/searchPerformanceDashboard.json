@@ -1,0 +1,63 @@
+{
+  "$id": "fins_searchPerformanceDashboard",
+  "$schema": "https://schema.yext.com/config/analytics/dashboard/v1",
+  "name": "Search Performance",
+  "insights": [
+    {
+      "insight": "fins_clickThroughRate",
+      "x": 0,
+      "y": 1,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "insight": "fins_clickThroughRateByWeek",
+      "x": 2,
+      "y": 1,
+      "width": 4,
+      "height": 1
+    },
+    {
+      "insight": "fins_uniqueQueries",
+      "x": 0,
+      "y": 6,
+      "width": 6,
+      "height": 1
+    },
+    {
+      "insight": "fins_searchPerformanceByWeek",
+      "x": 0,
+      "y": 7,
+      "width": 6,
+      "height": 2
+    },
+    {
+      "insight": "fins_searchPerformanceByWeek2",
+      "x": 0,
+      "y": 9,
+      "width": 6,
+      "height": 2
+    },
+    {
+      "insight": "fins_clickThroughRateOverview",
+      "x": 0,
+      "y": 11,
+      "width": 6,
+      "height": 2
+    },
+    {
+      "insight": "fins_searchTermPerformance",
+      "x": 0,
+      "y": 13,
+      "width": 6,
+      "height": 2
+    },
+    {
+      "insight": "fins_searchesByReferrerUrl",
+      "x": 0,
+      "y": 15,
+      "width": 6,
+      "height": 2
+    }
+  ]
+}

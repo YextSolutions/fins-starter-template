@@ -1,0 +1,51 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "fins_locator",
+  "name": "Locator Search",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "locations": {
+      "entityTypes": [
+        "atm",
+        "location"
+      ],
+      "name": "Locations",
+      "searchableFields": {
+        "builtin.entityType": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "builtin.hours": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "popularQueriesBlacklistedRegex": [],
+    "universalPrompts": [],
+    "verticalPrompts": {
+      "locations": [
+        "Locations near [[address.city]]",
+        "Locations near [[address.region]]"
+      ]
+    }
+  }
+}

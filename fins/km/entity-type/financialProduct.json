@@ -1,0 +1,7 @@
+{
+  "$id": "fins_financialProduct",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Financial Product",
+  "pluralDisplayName": "Financial Products"
+}

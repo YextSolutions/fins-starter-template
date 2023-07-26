@@ -1,0 +1,24 @@
+{
+  "$id": "chicly-subtle-porpoise-2ceaa",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Locator Search (React)",
+  "repoConfig": "simply-previous-pheasant-3b525",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "main",
+      "envVars": [],
+      "isProductionBranch": true,
+      "Active": true
+    }
+  ]
+}

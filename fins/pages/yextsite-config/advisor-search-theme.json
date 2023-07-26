@@ -1,0 +1,24 @@
+{
+  "$id": "fins_advisor-search-theme",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Advisor Search (Theme)",
+  "repoConfig": "scarily-low-cattle-4d100",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "master",
+      "envVars": [],
+      "isProductionBranch": true,
+      "Active": true
+    }
+  ]
+}

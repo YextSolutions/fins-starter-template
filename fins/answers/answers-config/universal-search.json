@@ -1,0 +1,152 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "fins_universal-search",
+  "name": "Universal Search",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_answerTest": {
+          "semanticTextSearch": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "question": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "financial_products": {
+      "entityTypes": [
+        "ce_financialProduct"
+      ],
+      "name": "Financial Products",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "fins_productCategory": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "financial_professionals": {
+      "entityTypes": [
+        "financialProfessional"
+      ],
+      "name": "Financial Professionals",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "fins_relatedLocations.name": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "fins_relatedServices.name": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "interests": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "languages": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "locations": {
+      "entityTypes": [
+        "atm",
+        "location"
+      ],
+      "name": "Locations",
+      "searchableFields": {
+        "builtin.entityType": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "builtin.hours": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "services": {
+      "entityTypes": [
+        "ce_service"
+      ],
+      "name": "Services",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "fins_serviceCategory": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "richTextV2ToHTML": true,
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "popularQueriesBlacklistedRegex": [],
+    "universalPrompts": [],
+    "verticalPrompts": {
+      "locations": [
+        "Locations near [[address.city]]",
+        "Locations near [[address.region]]"
+      ]
+    }
+  }
+}

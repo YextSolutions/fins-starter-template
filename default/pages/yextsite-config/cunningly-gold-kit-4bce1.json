@@ -1,0 +1,24 @@
+{
+  "$id": "cunningly-gold-kit-4bce1",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Universal Search (React)",
+  "repoConfig": "vacantly-parallel-monkey-f84c7",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "main",
+      "envVars": [],
+      "isProductionBranch": true,
+      "Active": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "fins_sessions_pageViews_week",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Sessions and Page Views by Week",
+  "description": "Sessions and Page Views by Week",
+  "query": {
+    "metrics": [
+      "yext/STOREPAGES_UNIQUEVISITORS",
+      "yext/PAGE_VIEWS"
+    ],
+    "dimensions": [
+      "yext/WEEKS"
+    ],
+    "filters": [
+      {
+        "filter": "yext/date",
+        "in": "WEEKS_4"
+      }
+    ]
+  },
+  "display": {
+    "line": {}
+  }
+}

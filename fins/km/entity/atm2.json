@@ -1,0 +1,128 @@
+{
+  "$id": "fins_atm2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Chicago",
+      "countryCode": "US",
+      "line1": "500 West Madison Street",
+      "line2": "Suite 3160",
+      "postalCode": "60661",
+      "region": "IL"
+    },
+    "fins_primaryCTA": {
+      "label": "View Profile",
+      "link": "http://www.yext.com",
+      "linkType": "URL"
+    },
+    "fins_secondaryCTA": {
+      "label": "Get Directions",
+      "link": "http://www.yext.com",
+      "linkType": "URL"
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "logo": {
+      "image": {
+        "height": 44,
+        "sourceUrl": "https://a.mktgcdn.com/p/b2xAvt8F_UTC_EKfiqs-i3E7b2dZk4lcynRai6s9mb0/44x38.png",
+        "thumbnails": [
+          {
+            "height": 44,
+            "url": "https://a.mktgcdn.com/p/x3mFMha7r29hqX41QbAdPh-upGiBkKWlN8ecj9UPcG0/44x44.png",
+            "width": 44
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/x3mFMha7r29hqX41QbAdPh-upGiBkKWlN8ecj9UPcG0/44x44.png",
+        "width": 44
+      }
+    },
+    "mainPhone": "+13129864880",
+    "name": "ATM",
+    "photoGallery": [
+      {
+        "description": "hero image",
+        "image": {
+          "alternateText": "alt text",
+          "height": 550,
+          "sourceUrl": "https://a.mktgcdn.com/p/XSJWgHAzJRtonqDQH4sFXm_sPfeTNI3OXrdiSklnKZc/825x550.png",
+          "thumbnails": [
+            {
+              "height": 550,
+              "url": "https://a.mktgcdn.com/p/XSJWgHAzJRtonqDQH4sFXm_sPfeTNI3OXrdiSklnKZc/825x550.png",
+              "width": 825
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/XSJWgHAzJRtonqDQH4sFXm_sPfeTNI3OXrdiSklnKZc/825x550.png",
+          "width": 825
+        }
+      }
+    ],
+    "slug": "[[entityId]]",
+    "timezone": "America/Chicago",
+    "websiteUrl": {
+      "displayUrl": "https://www.yext.com",
+      "preferDisplayUrl": false,
+      "url": "https://www.yext.com"
+    }
+  },
+  "entityType": "atm",
+  "labels": []
+}

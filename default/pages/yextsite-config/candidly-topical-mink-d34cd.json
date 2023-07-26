@@ -1,0 +1,24 @@
+{
+  "$id": "candidly-topical-mink-d34cd",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Location Pages",
+  "repoConfig": "plum-xenial-bat-d1e2c",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "main",
+      "envVars": [],
+      "isProductionBranch": true,
+      "Active": true
+    }
+  ]
+}

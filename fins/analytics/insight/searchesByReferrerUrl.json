@@ -1,0 +1,35 @@
+{
+  "$id": "fins_searchesByReferrerUrl",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Searches by Referrer URL",
+  "description": "Sessions, Searches, Clicks, and Click Through Rate by Referrer URL",
+  "query": {
+    "metrics": [
+      "yext/ANSWERS_SESSIONS",
+      "yext/ANSWERS_SEARCHES",
+      "yext/ANSWERS_CLICKS",
+      "yext/ANSWERS_CLICK_THROUGH_RATE"
+    ],
+    "dimensions": [
+      "yext/ANSWERS_REFERRER_PAGE_URL"
+    ],
+    "filters": [
+      {
+        "filter": "yext/ANSWERS_CONFIGURATION_VERSION_LABEL",
+        "in": [
+          "PRODUCTION"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "table": {
+      "sort": {
+        "column": {
+          "metric": "yext/ANSWERS_SEARCHES"
+        },
+        "descending": true
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "$id": "plum-xenial-bat-d1e2c",
+  "$schema": "https://schema.yext.com/config/pages/repository/v1",
+  "repoUrl": "github.com/yext-pages/fins-location-pages"
+}

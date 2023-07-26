@@ -1,0 +1,139 @@
+{
+  "$id": "fins_faq3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Brands that add Yext Answers to their websites achieve value in three ways:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "They boost conversion:",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " Putting direct answers and calls-to-action at consumers\u0027 fingertips, allows brands to meet them at their peak moments of intent.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 1,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "They reduce support costs:",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " Answers helps consumers find information quickly and easily — without having to contact a support center or chatbot.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 2,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "They gain a source of new customer intelligence:",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " Search Analytics catalogs each search query and its response to show brands where they might be missing opportunities with their customers.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 3,
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "listType": "number",
+              "start": 1,
+              "tag": "ol",
+              "type": "list",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "name": "What value can Yext Answers drive for my brand?",
+    "question": "What value can Yext Answers drive for my brand?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": []
+}

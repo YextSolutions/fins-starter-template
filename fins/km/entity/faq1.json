@@ -1,0 +1,242 @@
+{
+  "$id": "fins_faq1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Search has seen a massive paradigm shift over the last two decades. People don\u0027t just type in disparate keywords anymore — they ask very specific questions. In return they expect — and depend on — accurate, official answers to help them make important decisions in their lives. Wrong answers aren\u0027t an option.  That\u0027s where Yext comes in. ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 1,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Our mission is to help businesses and organizations around the world deliver official answers everywhere people search.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "  The mission is powered by the ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Yext Search Experience Cloud platform",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "target": "_blank",
+                  "type": "link",
+                  "url": "https://www.yext.com/products/search-experience-cloud/",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", which puts you in control of your facts online and provides accurate, up-to-date, official answers to consumer questions across the entire search ecosystem. Starting on your own website, then extending across search engines, voice assistants, maps, apps, and chatbots, Yext helps you safeguard against misinformation and become the ultimate source of truth online.  Yext\u0027s core products include:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Knowledge Graph",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 1,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Answers",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 2,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Pages",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 3,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Listings",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 4,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Reviews",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 5,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Analytics",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 6,
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul",
+              "type": "list",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 2,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "This sample FAQ includes examples of rich-text formatting so you know what it will look like on your search experience.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "fins_faqCategory": [
+      "Products"
+    ],
+    "fins_primaryCTA": {
+      "label": "Learn More",
+      "link": "http://www.yext.com",
+      "linkType": "URL"
+    },
+    "name": "What is Yext?",
+    "question": "What is Yext?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": []
+}

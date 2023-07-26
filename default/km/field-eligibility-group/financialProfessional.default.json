@@ -1,0 +1,17 @@
+{
+  "$id": "financialProfessional.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Financial Professional-default",
+  "entityType": "financialProfessional",
+  "fields": [
+    "fins_featuredArticles",
+    "fins_jobTitle",
+    "fins_primaryCTA",
+    "fins_relatedFaqs",
+    "fins_relatedLocations",
+    "fins_relatedProducts",
+    "fins_relatedServices",
+    "fins_secondaryCTA"
+  ],
+  "required": []
+}

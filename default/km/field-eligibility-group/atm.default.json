@@ -1,0 +1,15 @@
+{
+  "$id": "atm.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "ATM-default",
+  "entityType": "atm",
+  "fields": [
+    "fins_featuredArticles",
+    "fins_primaryCTA",
+    "fins_relatedFaqs",
+    "fins_relatedProducts",
+    "fins_relatedServices",
+    "fins_secondaryCTA"
+  ],
+  "required": []
+}
