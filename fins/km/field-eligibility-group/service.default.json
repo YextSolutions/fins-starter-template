@@ -9,6 +9,7 @@
     "fins_relatedLocations",
     "fins_relatedProfessionals",
     "fins_secondaryCTA",
+    "fins_serviceCategory",
     "fins_servicesImage"
   ],
   "required": []
