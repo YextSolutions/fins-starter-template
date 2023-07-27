@@ -4,7 +4,8 @@
   "name": "Help Article-default",
   "entityType": "helpArticle",
   "fields": [
-    "fins_articlePhoto"
+    "fins_articlePhoto",
+    "fins_articleDescription"
   ],
   "required": []
 }
